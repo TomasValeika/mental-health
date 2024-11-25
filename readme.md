@@ -1,3 +1,5 @@
+Note: The charts were created using the Plotly library, which means they are not displayed on GitHub. To view the charts, you need to download the scripts and run them locally on your computer.
+
 # Key Highlights:
 ## Target Group:
 - Men and women
